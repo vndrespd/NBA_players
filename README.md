@@ -1,3 +1,5 @@
+El trabajo consiste en generar querys de datos que suelen ser relevantes a la hora de un scouting basico, como por ejemplos puntos segun que caracteristicas, rebotes, etc.
+Todo ello visualizado a traves de graficas y tablas para una mayor comprensión. 
 
 Análisis decriptivo
 
